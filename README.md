@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Tommaso Scalici and I'm a software developer. I'm from Italy, currently living in Palermo and studying Computer Science at University.
-C# is my favorite language and Xamarin is my way to go for desktop/mobile/web cross-platform development.
-You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) for job offers, check my CV or just get in touch! :)
+My name is Tommaso Scalici and I'm a software developer. I'm from Italy, currently living in Palermo and studying Computer Science at University.<br />
+C# is my favorite language and Xamarin is my way to go for desktop/mobile/web cross-platform development.<br />
+You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) for job offers, checking my CV or just to get in touch! :)<br />
 
 ### 🔧 Technologies & Tools
 
@@ -19,7 +19,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) 
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mssql&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Framework-netframework-informational?style=flat&logo=dot-net&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Framework-Xamarin-informational?style=flat&logo=xamarin&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=007ec6)
