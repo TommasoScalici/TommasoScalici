@@ -42,6 +42,12 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TommasoScalici&repo=MVVMExtensions&theme=dark">
 </a>  
 
+### &#x1f4ca; Language Usage Stats
+
+<figure>
+  <img align="center" src="https://wakatime.com/share/@5eee5d0c-eeca-4a29-bdc6-46a11e610fb6/82dcedaf-97e5-4fcb-9ee4-03942fd11225.svg"></img>
+</figure>
+
 <!--
 **TommasoScalici/TommasoScalici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
