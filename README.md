@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tommaso Scalici and I'm a software developer. I'm from Italy, currently living in Palermo, studying Computer Science at University and working as a Backend Developer with .NET Core Web API.<br />
+I'm Tommaso Scalici and I'm a software developer. I'm from Italy, currently living in Palermo, studying Computer Science at University and working as a Backend Developer with .NET Core Web API.<br />
 C# is my favorite language and .NET MAUI is my way to go for desktop/mobile/web cross-platform development.<br />
 You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) for job offers, checking my CV or just to get in touch! :)<br />
 
@@ -29,7 +29,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) 
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/TommasoScalici">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoScalici&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoScalici&theme=dark&layout=compact">
 </a>
 <a href="https://github.com/TommasoScalici">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TommasoScalici&theme=dark&show_icons=true&line_height=40">
