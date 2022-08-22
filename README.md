@@ -29,7 +29,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tommasoscalici/) 
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/TommasoScalici">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoScalici&theme=dark&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommasoScalici&theme=dark">
 </a>
 <a href="https://github.com/TommasoScalici">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TommasoScalici&theme=dark&show_icons=true&line_height=40">
