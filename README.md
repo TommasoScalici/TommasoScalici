@@ -8,32 +8,33 @@ I'm confident with <strong>OOP</strong>, design patterns, ORMs technologies like
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=007ec6)
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Code-C%23-informational?&style=flat)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Code-XML-informational?style=flat)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=C&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Code-C%23-informational?&style=for-the-badge)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Code-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Code-XML-informational?style=for-the-badge)
 
-![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat)
-![](https://img.shields.io/badge/DBMS-MSSQL-informational?style=flat)
-![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat)
+![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=for-the-badge)
+![](https://img.shields.io/badge/DBMS-MSSQL-informational?style=for-the-badge)
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=for-the-badge)
 
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=for-the-badge)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge)
 
-![](https://img.shields.io/badge/Framework-ASP.NET-informational?style=flat&logo=.net&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Framework-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Framework-Entity_Framework-informational?style=flat&logo=.net&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Framework-ASP.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Framework-Blazor-informational?style=for-the-badge&logo=blazor&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Framework-Entity_Framework-informational?style=for-the-badge&logo=.net&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Library-React-informational?style=for-the-badge&logo=react&logoColor=white&color=007ec6)
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=007ec6)
 
 ### &#x1f4c8; GitHub Stats
 
