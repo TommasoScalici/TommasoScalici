@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 <img 
-  src="https://raw.githubusercontent.com/TommasoScalici/TommasoScalici/master/profile_pic.jpg" 
-  alt="Tommaso Scalici Profile Picture" 
+  src="https://raw.githubusercontent.com/TommasoScalici/TommasoScalici/master/ts_logo.jpg" 
+  alt="Tommaso Scalici Logo" 
   align="right"
-  width="130" 
-  style="border-radius: 50%; border: 2px solid #333; margin-left: 20px;" 
+  width="140" 
 />
 
 I'm Tommaso Scalici, a **Software Developer | Artist | Playlist Curator** based in Palermo, Italy.
