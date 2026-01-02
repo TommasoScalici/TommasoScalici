@@ -19,7 +19,6 @@ I'm Tommaso Scalici, a **Software Developer | Artist | Playlist Curator** based 
 
 <a href="https://www.linkedin.com/in/tommasoscalici/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://tommasoscalici.altervista.org" target="_blank"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=Blogger&logoColor=white" alt="Sito Web"></a>
-<a href="https://linktr.ee/tommasoscalici" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
 
 <br>
 <br>
