@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img 
-  src="https://raw.githubusercontent.com/TommasoScalici/TommasoScalici/master/ts_logo.jpg" 
+  src="https://raw.githubusercontent.com/TommasoScalici/TommasoScalici/master/ts_logo.png" 
   alt="Tommaso Scalici Logo" 
   align="right"
   width="140" 
